@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlton, an <a href="https://linkedin.com/in/carlton-flamer">IT Professional</a>☺</h1>
+<h1>Hi, I'm Carlton, an <a href="https://www.linkedin.com/in/carlton-flamer)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,5 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carlton/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="carlton-flamer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="carlton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://linkedin.com/in/carlton-flamer
